@@ -2,9 +2,9 @@
   "name": "todolist-mongoose",
   "version": "1.0.0",
   "description": "",
-  "main": "awscodeAtlas.js",
+  "main": "awcodeAtlas.js",
   "scripts": {
-    "start": "node awscodeAtlas.js",
+    "start": "node awcodeAtlas.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Javi",
